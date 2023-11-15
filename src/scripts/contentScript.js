@@ -6,7 +6,7 @@
 function unblurDoc() {
     $('.autogen_class_views_read2_page_blur_promo').remove();
 
-    $('.promo').remove();
+    $('.promo_div').remove();
     $('.page_blur_promo_overlay').remove();
 
     // $('.page_blur_promo').remove();
